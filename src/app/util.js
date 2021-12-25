@@ -1,0 +1,1 @@
+export const HEIGHT_BUILDING = 450;
